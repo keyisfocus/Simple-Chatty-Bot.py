@@ -4,3 +4,6 @@
 For the first stage, you will write a bot who displays a greeting, its name, and the date of its creation. First impressions count!
 
 ## Stage 2
+At this stage, you will introduce yourself to the bot so that it can greet you by your name.
+
+## Stage 3
